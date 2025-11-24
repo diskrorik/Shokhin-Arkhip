@@ -1,1 +1,30 @@
-# Shokhin-Arkhip
+# Sup, i'm Shokhin-Arkhip! 👋
+
+## It's all bout me 🌟
+
+🌎 **18 yo student ITMO vs. The World**  
+🤖 **4eva AI user**
+📉 **just a chill guy with no background trying to get to the top**
+
+## 🛠 Languages I kinda know
+
+### 💻 Main ones
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+<div align="center">
+  <img src="https://avatars.mds.yandex.net/get-shedevrum/13805855/img_b8a31a00828f11ef9584fe663f880aa2/orig" width="300" alt="Cool image">
+</div>
+
+## 📨 Where to find me
+
+- **Telegram**: [@diskrorik](https://t.me/diskrorik)
+- **VK**: [@spyashiy_ezhik@](https://vk.com/spyashiy_ezhik)
+
+---
+
+<div align="center">
+
+### 🚬 **chilling my way to the top**
+
+</div>
