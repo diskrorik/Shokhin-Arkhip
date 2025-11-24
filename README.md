@@ -1,7 +1,7 @@
 # Sup, i'm Shokhin-Arkhip! 👋
 
 [![Telegram](https://img.shields.io/badge/Telegram-@diskrorik-blue?style=flat&logo=telegram)](https://t.me/diskrorik)
-[![VK](https://img.shields.io/badge/VK-@spyashiy_ezhik@-blue?style=flat&logo=vk)](https://vk.com/spyashiy_ezhik)
+[![VK](https://img.shields.io/badge/VK-@spyashiy_ezhik-blue?style=flat&logo=vk)](https://vk.com/spyashiy_ezhik)
 ![Profile Views](https://komarev.com/ghpvc/?username=Shokhin-Arkhip&color=blue)
 
 ## It's all bout me 🌟
@@ -23,7 +23,7 @@
 ## 📨 Where to find me
 
 - **Telegram**: [@diskrorik](https://t.me/diskrorik)
-- **VK**: [@spyashiy_ezhik@](https://vk.com/spyashiy_ezhik)
+- **VK**: [@spyashiy_ezhik](https://vk.com/spyashiy_ezhik)
 
 ---
 
