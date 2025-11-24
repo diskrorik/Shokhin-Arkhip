@@ -1,9 +1,13 @@
 # Sup, i'm Shokhin-Arkhip! 👋
 
+[![Telegram](https://img.shields.io/badge/Telegram-@diskrorik-blue?style=flat&logo=telegram)](https://t.me/diskrorik)
+[![VK](https://img.shields.io/badge/VK-@spyashiy_ezhik@-blue?style=flat&logo=vk)](https://vk.com/spyashiy_ezhik)
+![Profile Views](https://komarev.com/ghpvc/?username=Shokhin-Arkhip&color=blue)
+
 ## It's all bout me 🌟
 
 🌎 **18 yo student ITMO vs. The World**  
-🤖 **4eva AI user**
+🤖 **4eva AI user**  
 📉 **just a chill guy with no background trying to get to the top**
 
 ## 🛠 Languages I kinda know
