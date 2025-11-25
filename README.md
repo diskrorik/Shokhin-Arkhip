@@ -17,7 +17,8 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 <div align="center">
-  <img src="file:///C:/Users/User/Downloads/dLnEk-cFpXio6CtrcvhNcz3kzH2j8NIe4H-gjLrd4LpjWkflcAXOr9ySImnsDUECpY_hX5eHB5BC07QYJ-BbQuFZ%20(1).jpg" width="300" alt="Cool image">
+  <img width="3200" height="1440" alt="image" src="https://github.com/user-attachments/assets/7360ae1a-1a6f-4056-92ee-e2be9c8b0339" />
+
 </div>
 
 ## 📨 Where to find me
